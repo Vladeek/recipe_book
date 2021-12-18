@@ -1,2 +1,3 @@
 # Recipe_book
-Project on Java(Android)
+Simple project on Java(Android) with SQLite database and content provider
+
